@@ -1,3 +1,4 @@
+
 # Plant Species and Disease Classification 
 ## Introduction
 Early and accurate detection and diagnosis of plant disease are key factors in plant production and the reduction of both qualitative and quantitative losses in crop yield. 
